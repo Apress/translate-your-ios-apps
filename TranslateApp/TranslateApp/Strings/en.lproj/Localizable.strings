@@ -1,0 +1,12 @@
+/* 
+  Localization.strings
+  TranslateApp
+
+  Created by Tihomir RAdeff on 28.10.21.
+  
+*/
+
+"FIRST_NAME" = "First name";
+"LAST_NAME" = "Last name";
+"NAME" = "name";
+"CONTINUE" = "Continue";

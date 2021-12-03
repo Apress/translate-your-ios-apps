@@ -1,0 +1,12 @@
+/* 
+  Localization.strings
+  TranslateApp
+
+  Created by Tihomir RAdeff on 28.10.21.
+  
+*/
+
+"FIRST_NAME" = "Име";
+"LAST_NAME" = "Фамилия";
+"NAME" = "име";
+"CONTINUE" = "Продължи";
